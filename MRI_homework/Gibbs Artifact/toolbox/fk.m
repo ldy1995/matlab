@@ -1,6 +1,6 @@
 function [ fk ] = fk(x,f,k)
-%UNTITLED6 Summary of this function goes here
-%   Detailed explanation goes here
+%   2017/6/4  by Danyang Li
+%   E-mail: lidanyang1995@smu.edu.cn
 
 che=f.*exp(1i*k*pi*x);
 fk=(1/2)*sum(che);

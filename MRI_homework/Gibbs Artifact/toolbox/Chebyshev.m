@@ -2,6 +2,7 @@ function [ T ] = Chebyshev( x,n )
 %用递推公式计算chebyshev多项式
 %   第二类切比雪夫多项式
 % 2017/5/25    by Danyang Li
+% E-mail: lidanyang1995@smu.edu.cn
 
 [X,Y]=size(x);
 T0=ones(1,Y);

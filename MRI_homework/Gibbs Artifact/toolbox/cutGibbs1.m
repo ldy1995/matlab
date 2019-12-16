@@ -1,7 +1,8 @@
 function [ henceim ] = cutGibbs1( partKspace,n )
 %   空间滤波+二阶微分图像增强
 %   输入部分k空间数据，输入增强细节权重n
-%                                       2017/6/4  by李丹阳
+%   2017/6/4  by Danyang Li
+%   E-mail: lidanyang1995@smu.edu.cn
 
 abs_kpart=partKspace;
 
