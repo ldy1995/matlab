@@ -4,7 +4,7 @@ This folder contains of the algorithms for histogram processing of Digital Image
 ## Compared with Matlab
 Fig. 1 shows the equalized results of a seed image. The compared code is 'histoequal' function in MATLAB 2018b. 
 It can be seen that the code realized by myself has the comparable effectiveness with that in MATLAB.
-The zoomed ROIs also demonstrates conclusion.
+The zoomed ROIs also demonstrates the conclusion.
 
 ![Fig. 1. Results of a seed image.](./img/myself_vs_matlab.png)
 
