@@ -14,6 +14,7 @@ Fig. 3 shows the results of three natural landscape images.
 It can be seen that by equalizing the histogram of the images, the visual sense is improved.
 
 ![Fig. 2. Results of two persons.](./img/person.png)
+
 ![Fig. 3. Results of natural landscape.](./img/nature.png)
 
 ## Contact
