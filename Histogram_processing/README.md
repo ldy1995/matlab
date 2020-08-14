@@ -1,5 +1,5 @@
-# Histogram Processing 
-This folder contains of the algorithms for histogram processing of Digital Image Processing (DIP) course in my undergraduate period.
+# Histogram equalization
+This folder contains of the algorithms for Histogram equalizing of Digital Image Processing (DIP) course in my undergraduate period.
 
 ## Compared with Matlab
 Fig. 1 shows the equalized results of a seed image. The compared code is 'histoequal' function in MATLAB 2018b. 
